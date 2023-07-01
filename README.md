@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a project intended to be a bookkeeping app that can track income and spending from multiple accounts for record keeping and tax purposes
 
 ## Getting Started
 
